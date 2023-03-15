@@ -1,0 +1,20 @@
+body {
+    background-color: #f2f2f2;
+  }
+  
+  h1 {
+    color: coral;
+  }
+  
+  p {
+    font-size: 20px;
+  }
+  
+  button {
+    background-color: gold;
+    color: black;
+    font-size: 16px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
